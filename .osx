@@ -416,6 +416,13 @@ defaults write com.apple.messageshelper.MessageController SOInputLineSettings -d
 # Disable continuous spell checking
 defaults write com.apple.messageshelper.MessageController SOInputLineSettings -dict-add "continuousSpellCheckingEnabled" -bool false
 
+
+###############################################################################
+# Link airport                                                                #
+###############################################################################
+
+ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport /usr/sbin/airport
+
 ###############################################################################
 # Google Chrome                                                               #
 ###############################################################################
