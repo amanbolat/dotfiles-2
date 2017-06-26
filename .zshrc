@@ -1,5 +1,5 @@
 ## Main directory for all Code projects
-export CODE_DIR=~/Code
+export CODE_DIR=/Volumes/MacHD/Code
 export DOTFILES=~/.dotfiles
 
 # Stash your environment variables in ~/.localrc. This means they'll stay out
