@@ -655,10 +655,6 @@
 	<true/>
 	<key>NSFontPanelAttributes</key>
 	<string>1, 0</string>
-	<key>NSNavLastRootDirectory</key>
-	<string>~</string>
-	<key>NSNavPanelExpandedSizeForOpenMode</key>
-	<string>{712, 448}</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -690,19 +686,14 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
-	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
-	<dict>
-		<key>TB Is Shown</key>
-		<integer>1</integer>
-	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>656 157 589 318 0 0 1280 777 </string>
+	<string>577 233 879 362 0 0 1680 1027 </string>
+	<key>NSWindow Frame SUUpdateAlert</key>
+	<string>532 476 620 392 0 0 1680 1027 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>329 213 796 473 0 0 1280 800 </string>
+	<string>386 455 796 473 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>74 347 1019 417 0 0 1280 777 </string>
-	<key>NSWindow Frame iTerm Window 1</key>
-	<string>152 50 585 477 0 0 1280 777 </string>
+	<string>504 305 585 473 0 0 1680 1027 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1405,7 +1396,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>KnackNerdFontC-Regular 12</string>
+			<string>KnackNerdFontC-Regular 14</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -1472,18 +1463,24 @@
 			<string>/Users/amanbolat</string>
 		</dict>
 	</array>
-	<key>NoSyncHaveWarnedAboutIncompatibleSoftware</key>
-	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
-	<string>2B72B697-3E2D-449F-B01A-A5264B1D2D19</string>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<string>AFA29440-FFAB-4500-8A10-F9F056A5CAAB</string>
+	<key>NoSyncLastTipTime</key>
+	<real>508913471.43999797</real>
+	<key>NoSyncPermissionToShowTip</key>
 	<true/>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
-	<integer>0</integer>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
-	<real>519679233.01317698</real>
+	<real>508221871.79465902</real>
+	<key>NoSyncTipsDisabled</key>
+	<true/>
+	<key>NoSyncTipsToNotShow</key>
+	<array>
+		<string>000</string>
+		<string>0000</string>
+		<string>0001</string>
+	</array>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -1518,17 +1515,17 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/amanbolat</string>
+	<string>/Users/amanbolat/.iterm</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=66</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=57</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-06-20T20:13:02Z</date>
+	<date>2017-06-26T16:12:16Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>WordCharacters</key>
