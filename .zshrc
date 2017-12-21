@@ -79,3 +79,5 @@ ZSH_THEME="powerlevel9k/powerlevel9k"
 plugins=(git wd zsh-autosuggestions, zsh-syntax-highlighting)
 source $ZSH/oh-my-zsh.sh
 
+## DOctl completions
+source <(doctl completion zsh)

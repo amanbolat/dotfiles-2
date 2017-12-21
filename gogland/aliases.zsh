@@ -1,1 +1,1 @@
-alias gogpen='open -a Gogland\ 1.0\ EAP $*'
+alias gogpen='open -a GoLand $*'
