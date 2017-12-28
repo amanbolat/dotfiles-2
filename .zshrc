@@ -88,5 +88,5 @@ function prev-pet() {
   sh -c "pet new `printf %q "$PREV"`"
 }
 
-## Greetings
+## Greeting message
 greeting
