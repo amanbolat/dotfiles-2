@@ -5,6 +5,7 @@ set cursorline          " highlight the current line
 set nobackup            " don't create pointless backup files; Use VCS instead
 set autoread            " watch for file changes
 set number              " show line numbers
+set mouse=a             " enable mouse navigation
 set showcmd             " show selection metadata
 set showmode            " show INSERT, VISUAL, etc. mode
 set showmatch           " show matching brackets

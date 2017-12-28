@@ -81,3 +81,12 @@ source $ZSH/oh-my-zsh.sh
 
 ## DOctl completions
 source <(doctl completion zsh)
+
+## Pet - new command from prev execution
+function prev-pet() {
+  PREV=$(fc -lrn | head -n 1)
+  sh -c "pet new `printf %q "$PREV"`"
+}
+
+## Greetings
+greeting
